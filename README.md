@@ -1,6 +1,6 @@
-This is a stand-alone web service that is accessed by various client applications to store and retrieve simple key/value pairs.
+This is a stand-alone web service implemented by Python/Django. 
 
-Each client application has its own set of key/value pairs that can only be accessed by itself.
+The web service is accessed by various client applications to store and retrieve simple key/value pairs. Each client application has its own set of key/value pairs that can only be accessed by itself.
 
 The web service has three APIs:
 
